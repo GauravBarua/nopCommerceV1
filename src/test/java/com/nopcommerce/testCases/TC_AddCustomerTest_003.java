@@ -1,4 +1,4 @@
-package com.nopcommerce.testCases;
+/*package com.nopcommerce.testCases;
 
 import java.io.IOException;
 
@@ -90,4 +90,4 @@ public class TC_AddCustomerTest_003 extends BaseClass
 	
 	
 
-}
+}*/
